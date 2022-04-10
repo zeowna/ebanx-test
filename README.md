@@ -8,7 +8,7 @@ Technologies used:
 2. Nest.js;
 3. MYSQL;
 4. Typeorm;
-5. Docker and Docker  Compose.
+5. Docker and Docker Compose.
 
 to run the project run the following  command:
 ```bash
@@ -20,6 +20,6 @@ Then you'll need to run the DB migrations:
 $ docker-compose run --no-deps --rm app yarn migrations:run
 ```
 
-This project is missing unit tests, but passes yours ``automated test suite``` xD.
+This project is missing unit tests, but passes yours ``automated test suite`` xD.
 
 ## José Lucas Chociai ##
